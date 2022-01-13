@@ -14,6 +14,7 @@ git config --global user.email
 1. git add file_name
 
 добавляем файл с именем file_name для отслеживания
+
 2. git commit -m "some message"
 
 добавляем текущие изменения в репозиторий и подписываем их с помощью тега -m
@@ -22,3 +23,11 @@ git config --global user.email
 1. git status
 2. git log
 3. git diff
+
+## Работа с коммитами
+Для того, чтобы перейти к определенному коммитуможно использовать команду 
+
+git checkout code_commit
+
+code_commit - код коммита, к которому хотим перейти, его можно посмотреть в git log
+
