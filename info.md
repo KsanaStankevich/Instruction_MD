@@ -69,3 +69,8 @@
 > git add --help
 
 > git branch --help
+
+
+Собственно, картиночка в ветке:
+
+![image](residentevil.jpg)
