@@ -6,8 +6,9 @@
 
 Если имя пользователя и почта еще не были заданы:
 
-        git config --global user.name
-        git config --global user.email
+> git config --global user.name
+
+> git config --global user.email
 
 ## Работа с файлами:
 Для того, чтобы добавить файл, нужно:
